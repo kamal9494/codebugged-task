@@ -28,15 +28,24 @@ Backend: [https://codebugged-server.vercel.app](https://codebugged-server.vercel
 - Both frontend and backend is deployed in vercel.
 
 ## Setup
-Clone Repo : `git clone https://github.com/kamal9494/codebugged-task`
+Clone the project
+```bash 
+git clone https://github.com/kamal9494/codebugged-task
+```
 
-Frontend : `cd client`
-           `npm install`
-           `npm run dev`
+Navigate to client to run frontend
+```bash 
+cd client
+npm install
+npm run dev
+```
 
-Backend : `cd server`
-           `npm install`
-           `npm run dev`
+Navigate to server to run backend
+```bash 
+cd server
+npm install
+npm run dev
+```
            
 ## Architecture Diagram
 ![image](https://github.com/kamal9494/codebugged-task/assets/97849725/99c666cb-1509-4a3f-869d-723bfe990932)
