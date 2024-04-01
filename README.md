@@ -10,7 +10,7 @@
 
 Frontend: [https://codebugged-task.vercel.app/](https://codebugged-task.vercel.app/)
 
-Backend: [https://tuf-task-backend-iota.vercel.app/](https://codebugged-server.vercel.app)
+Backend: [https://codebugged-server.vercel.app](https://codebugged-server.vercel.app)
 
 ## Features Overview
 
