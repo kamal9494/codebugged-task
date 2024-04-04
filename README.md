@@ -12,6 +12,12 @@ Frontend: [https://codebugged-task.vercel.app/](https://codebugged-task.vercel.a
 
 Backend: [https://codebugged-server.vercel.app](https://codebugged-server.vercel.app)
 
+Sample Credentials
+```bash 
+Email : temp@temp.com
+Password : 1234
+```
+
 ## Features Overview
 
 - Created following pages as mentioned in task description :
